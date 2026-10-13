@@ -22,7 +22,6 @@ Foram selecionadas quatro funcionalidades para automação:
 
 | Funcionalidade | Objetivo |
 |---|---|
-| Cadastro | Validar o fluxo de criação de conta. |
 | Contato | Validar o preenchimento e envio do formulário de contato. |
 | Cursos | Validar a navegação e o acesso à área de cursos. |
 | Login | Validar o acesso à tela de login e os comportamentos previstos no cenário. |
